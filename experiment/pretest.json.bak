@@ -1,0 +1,47 @@
+[
+  {
+    "question": "A one-bit comparator has inputs P & Q as shown below. Of the given waveforms, which output represents the condition P < Q?  <br> <img src = 'images/p11.png'>",
+    "qid": 1,
+    "option_a": "<img src = 'images/p12.png'>",
+    "option_b": "<img src = 'images/p13.png'>",
+    "option_c": "<img src = 'images/p14.png'>",
+    "option_d": "None of these",
+    "correct_option": "a"
+  },
+  {
+    "question": "Which boolean expression explains the truth table accurately?  <br> <img src = 'images/p15.png'>",
+    "qid": 2,
+    "option_a": "Y = AB' + A'B",
+    "option_b": "Y = A + B",
+    "option_c": "Y = A' B' + AB",
+    "option_d": "Y = A.B",
+    "correct_option": "a"
+  },
+  {
+    "question": "The truth table for a one bit comparator is given below. Analyze and derive the expression for A > B output condition. <br> <img src = 'images/p16.png'>",
+    "qid": 3,
+    "option_a": "Y (A>B) = A'B+A B'",
+    "option_b": "Y (A>B) = A'B' + AB",
+    "option_c": "Y (A>B) =AB'",
+    "option_d": "Y (A>B) = A'B",
+    "correct_option": "c"
+  },
+  {
+    "question": "The truth table for a one bit comparator is given below. What is the expression for A = B output condition?",
+    "qid": 4,
+    "option_a": "Y (A=B) = A'B+A B'",
+    "option_b": "Y (A=B) = A'B' + AB",
+    "option_c": "Y (A=B) =AB'",
+    "option_d": "Y (A=B) = A'B",
+    "correct_option": "b"
+  },
+  {
+    "question": "The truth table for a one bit comparator is given below. What is the expression for A < B output condition?",
+    "qid": 5,
+    "option_a": "Y (A< B) = A'B+A B'",
+    "option_b": "Y (A< B) = A'B' + AB",
+    "option_c": "Y (A< b) =AB'",
+    "option_d": "Y (A< B) = A'B",
+    "correct_option": "d"
+  }
+]

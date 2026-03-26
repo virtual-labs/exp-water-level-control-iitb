@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="./js/gates.js"></script>
+    <script src="./js/outputgate.js"></script>
+</head>
+<body>
+    <label id="l1" style="font-size:26px;color:blue;text-align:center"></label><br />
+    <canvas id="mycanvas" width="800" height="500" style="border:5px solid black"></canvas>
+    <br />
+    
+    <input type="button" onclick="addorgate();" value="OR" style="background-image:url('./images/or.png');background-repeat:no-repeat;height:50px;width:75px;background-position:center;background-size:60px 50px;color:blue" />
+    <input type="button" onclick="addandgate();" value="AND" style="background-image:url('./images/and.png');background-repeat:no-repeat;height:50px;width:75px;background-position:center;background-size:60px 50px;color:blue" />
+    <input type="button" onclick="addnotgate();" value="NOT" style="background-image:url('./images/not.png');background-repeat:no-repeat;height:50px;width:75px;background-position:center;background-size:75px 50px;text-align:left;color:blue" />
+    <input type="button" onclick="addnorgate();" value="NOR" style="background-image:url('./images/nor.png');background-repeat:no-repeat;height:50px;width:75px;background-position:left;background-size:70px 50px;text-align:left;color:blue" />
+    <input type="button" onclick="addnandgate();" value="NAND" style="background-image:url('./images/nand.png');background-repeat:no-repeat;height:50px;width:75px;background-position:left;background-size:70px 50px;text-align:left;color:blue" />
+    <input type="button" onclick="addxorgate();" value="XOR" style="background-image:url('./images/xor.png');background-repeat:no-repeat;height:50px;width:85px;background-position:left;background-size:70px 50px;text-align:center;color:blue" />
+    <input type="button" onclick="adddivgate();" value="Y-connector" style="background-image:url('./images/y.png');background-repeat:no-repeat;height:50px;width:100px;background-position:left;background-size:70px 50px;text-align:left;color:blue" />
+    
+    <input type="button" onclick="addbulbgate();" value="Green LED" style="background-image:url('./images/gled.png');background-repeat:no-repeat;height:50px;width:85px;background-position:left;background-size:50px 50px;text-align:center;color:blue" />
+    
+    <input type="button" onclick="addbulredbgate();" value="Red   LED" style="background-image:url('./images/rled.png');background-repeat:no-repeat;height:50px;width:85px;background-position:left;background-size:50px 50px;text-align:center;color:blue" />
+
+    <input type="button" onclick="addoutgate();" value="Digital Switch" style="height:50px;width:125px;background-size:50px 50px;font-weight: bold"/>
+
+
+    <br />
+
+    <input type="button" onclick="connector1();" value="Connect op1 to ip1 " style="height:50px;width:160px;background-size:50px 50px;font-weight: bold" />
+    <input type="button" onclick="connector2();" value="Connect op1 to ip2 " style="height:50px;width:160px;background-size:50px 50px;font-weight: bold" />
+    <input type="button" onclick="connector3();" value="Connect op2 to ip2 " style="height:50px;width:160px;background-size:50px 50px;font-weight: bold" />
+    <input type="button" onclick="connector4();" value="Connect op2 to ip1 " style="height:50px;width:160px;background-size:50px 50px;font-weight: bold" />
+
+    <br>
+
+    <input type="button" onclick="undoGate();" value="UNDO GATE" style="height:50px;width:120px;background-size:50px 50px;text-align:center; color: red; font-weight: bold;" />
+    <input type="button" onclick="undoConnection();" value="UNDO LINK" style="height:50px;width:120px;background-size:50px 50px; color: red; font-weight: bold;" />
+    <input type="button" onclick="redoGate();" value="REDO GATE" style="height:50px;width:120px;background-size:50px 50px;text-align:center; color: darkgreen; font-weight: bold;" />
+    <input type="button" onclick="redoConnection();" value="REDO LINK" style="height:50px;width:120px;background-size:50px 50px; color: darkgreen; font-weight: bold;" />
+
+    <br />
+
+    <input type="button" onclick="startsim1();" value="Start Simulator " style="height:50px;width:220px;background-size:50px 50px;text-align:center; color: blue; font-weight: bold;" />
+    <input type="button" onclick="stopsim1();" value="Stop Simulator " style="height:50px;width:220px;background-size:50px 50px;text-align:center; color: blue; font-weight: bold;" />
+    <input type="button" onclick="reset();" value="Reset " style="height:50px;width:220px;background-size:50px 50px;text-align:center; color: blue; font-weight: bold;" />
+    <script>
+    
+    </script>
+    <script src="./js/gen.js"></script>
+</body>
+
+</html>

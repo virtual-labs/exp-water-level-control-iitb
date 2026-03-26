@@ -1,0 +1,47 @@
+[
+  {
+    "question": "The Boolean expression for the circuit shown below is: <br> <img src = 'images/q7.jpg'>",
+    "qid": 1,
+    "option_a": "Y = A'. B'",
+    "option_b": "Y= (A + B)",
+    "option_c": "Y = (A.B)')",
+    "option_d": "(A + B)'",
+    "correct_option": "a"
+  },
+  {
+    "question": "The circuit given below behaves as a  <br> <img src = 'images/q8.png'>",
+    "qid": 2,
+    "option_a": "Bubbled AND gate",
+    "option_b": "OR gate",
+    "option_c": "NOT gate",
+    "option_d": "None of these",
+    "correct_option": "a"
+  },
+  {
+    "question": "The Boolean expression for the logic circuit given below is: <br> <img src = 'images/q9.png'>",
+    "qid": 3,
+    "option_a": "A",
+    "option_b": "A'",
+    "option_c": "0",
+    "option_d": "1",
+    "correct_option": "a"
+  },
+  {
+    "question": "What is the Boolean expression for the circuit shown below?  <br> <img src = 'images/q10.jpg'>",
+    "qid": 4,
+    "option_a": "1",
+    "option_b": "0",
+    "option_c": "High Impedance (Z)",
+    "option_d": "None of these",
+    "correct_option": "c"
+  },
+  {
+    "question": "The Boolean expression for the logic circuit given below is___________ <br> <img src = 'images/q11.png'>",
+    "qid": 5,
+    "option_a": "A+ B",
+    "option_b": "A' + B",
+    "option_c": "A'",
+    "option_d": "0",
+    "correct_option": "a"
+  }
+]
