@@ -1,0 +1,355 @@
+
+/home/runner/work/exp-water-level-control-iitb/exp-water-level-control-iitb/experiment/simulation/common_libraries/js/ts_components/collapse_step.js
+   1:10  warning  'show_step' is defined but never used                 no-unused-vars
+   2:5   warning  '$' is not defined                                    no-undef
+   3:9   warning  '$' is not defined                                    no-undef
+   6:10  warning  'hide_step' is defined but never used                 no-unused-vars
+   7:5   warning  '$' is not defined                                    no-undef
+   8:9   warning  '$' is not defined                                    no-undef
+  11:10  warning  'get_collapse_btn_text' is defined but never used     no-unused-vars
+  20:10  warning  'get_collapse_btn_element' is defined but never used  no-unused-vars
+  29:10  warning  'hide_all_steps' is defined but never used            no-unused-vars
+  31:9   warning  '$' is not defined                                    no-undef
+
+/home/runner/work/exp-water-level-control-iitb/exp-water-level-control-iitb/experiment/simulation/common_libraries/js/ts_components/matrix.js
+   27:26  warning  'MathJax' is not defined                                no-undef
+   32:7   warning  'Matrix_Without_String' is defined but never used       no-unused-vars
+   52:26  warning  'MathJax' is not defined                                no-undef
+   56:10  warning  'get_matrix_html' is defined but never used             no-unused-vars
+   87:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+   99:10  warning  'get_matrix_html_with_title' is defined but never used  no-unused-vars
+  131:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+  143:10  warning  'convert_2d_to_1d_vector' is defined but never used     no-unused-vars
+  156:10  warning  'convert_1d_to_2d_matrix' is defined but never used     no-unused-vars
+
+/home/runner/work/exp-water-level-control-iitb/exp-water-level-control-iitb/experiment/simulation/common_libraries/js/ts_components/matrix_2d.js
+    2:10  warning  'toLatexBMatrix' is defined but never used              no-unused-vars
+   29:10  warning  'toLatexDeterminant' is defined but never used          no-unused-vars
+   61:10  warning  'renderMatrixInputs' is defined but never used          no-unused-vars
+  111:10  warning  'readMatrix2D' is defined but never used                no-unused-vars
+  130:10  warning  'verifyMatrix2D' is defined but never used              no-unused-vars
+  141:18  warning  'verify_values' is not defined                          no-undef
+  148:10  warning  'transposeMatrix' is defined but never used             no-unused-vars
+  165:10  warning  'multiplyMatrices' is defined but never used            no-unused-vars
+  200:10  warning  'inverseMatrix' is defined but never used               no-unused-vars
+  255:10  warning  'determinant' is defined but never used                 no-unused-vars
+  305:10  warning  'convertMatrixInputsToSpans' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-water-level-control-iitb/exp-water-level-control-iitb/experiment/simulation/common_libraries/js/ts_components/pannel.js
+  8:7  warning  'Pannel' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-water-level-control-iitb/exp-water-level-control-iitb/experiment/simulation/common_libraries/js/ts_components/questions.js
+   6:17  warning  'op1' is assigned a value but never used      no-unused-vars
+   7:17  warning  'op2' is assigned a value but never used      no-unused-vars
+   8:17  warning  'op3' is assigned a value but never used      no-unused-vars
+   9:17  warning  'op4' is assigned a value but never used      no-unused-vars
+  94:7   warning  'Question_Options' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-water-level-control-iitb/exp-water-level-control-iitb/experiment/simulation/common_libraries/js/ts_components/tables.js
+   19:22  warning  'verify_values' is not defined                                     no-undef
+  137:22  warning  'verify_values' is not defined                                     no-undef
+  260:7   warning  'Verify_Rows_Cols_6_decimal_places' is defined but never used      no-unused-vars
+  311:22  warning  'verify_values' is not defined                                     no-undef
+  416:7   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is defined but never used  no-unused-vars
+  468:7   warning  'Show_Table_Custom_Fixed' is defined but never used                no-unused-vars
+  506:7   warning  'Verify_Rows_Cols_Strings' is defined but never used               no-unused-vars
+  527:22  warning  'verify_values' is not defined                                     no-undef
+  663:7   warning  'Display_Table' is defined but never used                          no-unused-vars
+
+/home/runner/work/exp-water-level-control-iitb/exp-water-level-control-iitb/experiment/simulation/common_libraries/js/ts_math_library/general_math_functions.js
+    1:10  warning  'verify_values' is defined but never used                   no-unused-vars
+   17:10  warning  'random1' is defined but never used                         no-unused-vars
+   21:10  warning  'std_deviation' is defined but never used                   no-unused-vars
+   26:10  warning  'gauss' is defined but never used                           no-unused-vars
+   56:10  warning  'hide_panel' is defined but never used                      no-unused-vars
+   63:10  warning  'inverse_matrix' is defined but never used                  no-unused-vars
+   96:10  warning  'matrix_multiplication' is defined but never used           no-unused-vars
+  113:10  warning  'transpose_matrix' is defined but never used                no-unused-vars
+  123:10  warning  'matrix_multiplication_8decimal' is defined but never used  no-unused-vars
+  140:10  warning  'adjoint_2x2_matrix' is defined but never used              no-unused-vars
+  145:10  warning  'find_deteminant' is defined but never used                 no-unused-vars
+  174:10  warning  'get_Submatrix' is defined but never used                   no-unused-vars
+
+/home/runner/work/exp-water-level-control-iitb/exp-water-level-control-iitb/experiment/simulation/common_libraries/js/ts_math_library/regression.js
+   1:10  warning  'regression_linear' is defined but never used            no-unused-vars
+  18:10  warning  'regression_linear_1variable' is defined but never used  no-unused-vars
+  27:10  warning  'regression_linear_2variable' is defined but never used  no-unused-vars
+  52:11  warning  'gauss' is not defined                                   no-undef
+
+/home/runner/work/exp-water-level-control-iitb/exp-water-level-control-iitb/experiment/simulation/common_libraries/math.ob.js
+  1:745  warning  'b' is already defined  no-redeclare
+
+/home/runner/work/exp-water-level-control-iitb/exp-water-level-control-iitb/experiment/simulation/js/animation.ob.js
+  1:742   warning  'b' is defined but never used      no-unused-vars
+  1:1617  warning  Unnecessary semicolon              no-extra-semi
+  1:2216  warning  Unnecessary semicolon              no-extra-semi
+  1:2239  warning  'requestAnimFrame' is not defined  no-undef
+  1:2286  warning  Unnecessary semicolon              no-extra-semi
+
+/home/runner/work/exp-water-level-control-iitb/exp-water-level-control-iitb/experiment/simulation/js/gates.js
+   105:29  warning  Empty block statement  no-empty
+   115:29  warning  Empty block statement  no-empty
+   129:29  warning  Empty block statement  no-empty
+   139:29  warning  Empty block statement  no-empty
+   243:32  warning  Unnecessary semicolon  no-extra-semi
+   252:29  warning  Empty block statement  no-empty
+   262:29  warning  Empty block statement  no-empty
+   276:29  warning  Empty block statement  no-empty
+   286:29  warning  Empty block statement  no-empty
+   393:29  warning  Empty block statement  no-empty
+   402:29  warning  Empty block statement  no-empty
+   416:29  warning  Empty block statement  no-empty
+   425:29  warning  Empty block statement  no-empty
+   540:29  warning  Empty block statement  no-empty
+   549:29  warning  Empty block statement  no-empty
+   563:29  warning  Empty block statement  no-empty
+   572:29  warning  Empty block statement  no-empty
+   691:29  warning  Empty block statement  no-empty
+   700:29  warning  Empty block statement  no-empty
+   714:29  warning  Empty block statement  no-empty
+   723:29  warning  Empty block statement  no-empty
+   838:29  warning  Empty block statement  no-empty
+   847:29  warning  Empty block statement  no-empty
+   861:29  warning  Empty block statement  no-empty
+   870:29  warning  Empty block statement  no-empty
+  1014:29  warning  Empty block statement  no-empty
+  1023:29  warning  Empty block statement  no-empty
+  1037:29  warning  Empty block statement  no-empty
+  1046:29  warning  Empty block statement  no-empty
+  1063:30  warning  Empty block statement  no-empty
+  1072:30  warning  Empty block statement  no-empty
+  1086:30  warning  Empty block statement  no-empty
+  1095:30  warning  Empty block statement  no-empty
+
+/home/runner/work/exp-water-level-control-iitb/exp-water-level-control-iitb/experiment/simulation/js/gates.ob.js
+  1:1734   warning  Unnecessary semicolon  no-extra-semi
+  1:1958   warning  Unnecessary semicolon  no-extra-semi
+  1:2320   warning  Unnecessary semicolon  no-extra-semi
+  1:2504   warning  Empty block statement  no-empty
+  1:2575   warning  Empty block statement  no-empty
+  1:2618   warning  Unnecessary semicolon  no-extra-semi
+  1:2718   warning  Empty block statement  no-empty
+  1:2789   warning  Empty block statement  no-empty
+  1:2832   warning  Unnecessary semicolon  no-extra-semi
+  1:2855   warning  Unnecessary semicolon  no-extra-semi
+  1:2900   warning  Unnecessary semicolon  no-extra-semi
+  1:4122   warning  Unnecessary semicolon  no-extra-semi
+  1:4346   warning  Unnecessary semicolon  no-extra-semi
+  1:4740   warning  Unnecessary semicolon  no-extra-semi
+  1:4773   warning  Unnecessary semicolon  no-extra-semi
+  1:4774   warning  Unnecessary semicolon  no-extra-semi
+  1:4948   warning  Empty block statement  no-empty
+  1:5019   warning  Empty block statement  no-empty
+  1:5062   warning  Unnecessary semicolon  no-extra-semi
+  1:5137   warning  Empty block statement  no-empty
+  1:5208   warning  Empty block statement  no-empty
+  1:5251   warning  Unnecessary semicolon  no-extra-semi
+  1:5273   warning  Unnecessary semicolon  no-extra-semi
+  1:5318   warning  Unnecessary semicolon  no-extra-semi
+  1:6627   warning  Unnecessary semicolon  no-extra-semi
+  1:6850   warning  Unnecessary semicolon  no-extra-semi
+  1:7244   warning  Unnecessary semicolon  no-extra-semi
+  1:7449   warning  Empty block statement  no-empty
+  1:7520   warning  Empty block statement  no-empty
+  1:7563   warning  Unnecessary semicolon  no-extra-semi
+  1:7638   warning  Empty block statement  no-empty
+  1:7709   warning  Empty block statement  no-empty
+  1:7752   warning  Unnecessary semicolon  no-extra-semi
+  1:7774   warning  Unnecessary semicolon  no-extra-semi
+  1:7819   warning  Unnecessary semicolon  no-extra-semi
+  1:9364   warning  Unnecessary semicolon  no-extra-semi
+  1:9588   warning  Unnecessary semicolon  no-extra-semi
+  1:9982   warning  Unnecessary semicolon  no-extra-semi
+  1:10236  warning  Empty block statement  no-empty
+  1:10307  warning  Empty block statement  no-empty
+  1:10350  warning  Unnecessary semicolon  no-extra-semi
+  1:10425  warning  Empty block statement  no-empty
+  1:10496  warning  Empty block statement  no-empty
+  1:10539  warning  Unnecessary semicolon  no-extra-semi
+  1:10561  warning  Unnecessary semicolon  no-extra-semi
+  1:10606  warning  Unnecessary semicolon  no-extra-semi
+  1:12113  warning  Unnecessary semicolon  no-extra-semi
+  1:12338  warning  Unnecessary semicolon  no-extra-semi
+  1:12732  warning  Unnecessary semicolon  no-extra-semi
+  1:12939  warning  Empty block statement  no-empty
+  1:13010  warning  Empty block statement  no-empty
+  1:13053  warning  Unnecessary semicolon  no-extra-semi
+  1:13128  warning  Empty block statement  no-empty
+  1:13199  warning  Empty block statement  no-empty
+  1:13242  warning  Unnecessary semicolon  no-extra-semi
+  1:13264  warning  Unnecessary semicolon  no-extra-semi
+  1:13309  warning  Unnecessary semicolon  no-extra-semi
+  1:14871  warning  Unnecessary semicolon  no-extra-semi
+  1:15095  warning  Unnecessary semicolon  no-extra-semi
+  1:15489  warning  Unnecessary semicolon  no-extra-semi
+  1:15695  warning  Empty block statement  no-empty
+  1:15766  warning  Empty block statement  no-empty
+  1:15809  warning  Unnecessary semicolon  no-extra-semi
+  1:15884  warning  Empty block statement  no-empty
+  1:15955  warning  Empty block statement  no-empty
+  1:15998  warning  Unnecessary semicolon  no-extra-semi
+  1:16020  warning  Unnecessary semicolon  no-extra-semi
+  1:16065  warning  Unnecessary semicolon  no-extra-semi
+  1:17024  warning  Unnecessary semicolon  no-extra-semi
+  1:17166  warning  Unnecessary semicolon  no-extra-semi
+  1:17390  warning  Unnecessary semicolon  no-extra-semi
+  1:17788  warning  Unnecessary semicolon  no-extra-semi
+  1:18076  warning  Unnecessary semicolon  no-extra-semi
+  1:18474  warning  Unnecessary semicolon  no-extra-semi
+  1:18658  warning  Empty block statement  no-empty
+  1:18729  warning  Empty block statement  no-empty
+  1:18772  warning  Unnecessary semicolon  no-extra-semi
+  1:18872  warning  Empty block statement  no-empty
+  1:18943  warning  Empty block statement  no-empty
+  1:18986  warning  Unnecessary semicolon  no-extra-semi
+  1:19009  warning  Unnecessary semicolon  no-extra-semi
+  1:19054  warning  Unnecessary semicolon  no-extra-semi
+  1:19127  warning  Empty block statement  no-empty
+  1:19198  warning  Empty block statement  no-empty
+  1:19241  warning  Unnecessary semicolon  no-extra-semi
+  1:19341  warning  Empty block statement  no-empty
+  1:19412  warning  Empty block statement  no-empty
+  1:19455  warning  Unnecessary semicolon  no-extra-semi
+  1:19478  warning  Unnecessary semicolon  no-extra-semi
+  1:19524  warning  Unnecessary semicolon  no-extra-semi
+  1:20086  warning  Unnecessary semicolon  no-extra-semi
+  1:21129  warning  Unnecessary semicolon  no-extra-semi
+  1:22398  warning  Unnecessary semicolon  no-extra-semi
+  1:23844  warning  Unnecessary semicolon  no-extra-semi
+  1:24168  warning  Unnecessary semicolon  no-extra-semi
+  1:25110  warning  Unnecessary semicolon  no-extra-semi
+  1:26379  warning  Unnecessary semicolon  no-extra-semi
+  1:27831  warning  Unnecessary semicolon  no-extra-semi
+  1:28591  warning  Unnecessary semicolon  no-extra-semi
+
+/home/runner/work/exp-water-level-control-iitb/exp-water-level-control-iitb/experiment/simulation/js/gen.js
+    1:10  warning  'writeMessage' is defined but never used      no-unused-vars
+   31:9   warning  'message' is assigned a value but never used  no-unused-vars
+   41:26  warning  'orgate' is not defined                       no-undef
+   48:26  warning  'andgate' is not defined                      no-undef
+   55:17  warning  'a1' is already defined                       no-redeclare
+   55:26  warning  'notgate' is not defined                      no-undef
+   62:17  warning  'a1' is already defined                       no-redeclare
+   62:26  warning  'norgate' is not defined                      no-undef
+   70:17  warning  'a1' is already defined                       no-redeclare
+   70:26  warning  'xorgate' is not defined                      no-undef
+   77:17  warning  'a1' is already defined                       no-redeclare
+   77:26  warning  'nandgate' is not defined                     no-undef
+   84:17  warning  'a1' is already defined                       no-redeclare
+   84:26  warning  'divgate' is not defined                      no-undef
+   91:17  warning  'a1' is already defined                       no-redeclare
+   91:26  warning  'bulb' is not defined                         no-undef
+   98:17  warning  'a1' is already defined                       no-redeclare
+   98:26  warning  'dbulb' is not defined                        no-undef
+  105:17  warning  'a1' is already defined                       no-redeclare
+  105:26  warning  'bulbred' is not defined                      no-undef
+  112:17  warning  'a1' is already defined                       no-redeclare
+  112:26  warning  'bulbrg' is not defined                       no-undef
+  119:17  warning  'a1' is already defined                       no-redeclare
+  119:26  warning  'outgate' is not defined                      no-undef
+  128:18  warning  'i' is not defined                            no-undef
+  128:25  warning  'i' is not defined                            no-undef
+  128:51  warning  'i' is not defined                            no-undef
+  130:44  warning  'i' is not defined                            no-undef
+  130:94  warning  'i' is not defined                            no-undef
+  132:50  warning  'i' is not defined                            no-undef
+  140:18  warning  'i' is not defined                            no-undef
+  140:25  warning  'i' is not defined                            no-undef
+  140:51  warning  'i' is not defined                            no-undef
+  141:44  warning  'i' is not defined                            no-undef
+  141:94  warning  'i' is not defined                            no-undef
+  143:50  warning  'i' is not defined                            no-undef
+  156:18  warning  'i' is not defined                            no-undef
+  156:25  warning  'i' is not defined                            no-undef
+  156:51  warning  'i' is not defined                            no-undef
+  158:44  warning  'i' is not defined                            no-undef
+  158:94  warning  'i' is not defined                            no-undef
+  160:50  warning  'i' is not defined                            no-undef
+  168:18  warning  'i' is not defined                            no-undef
+  168:25  warning  'i' is not defined                            no-undef
+  168:51  warning  'i' is not defined                            no-undef
+  169:44  warning  'i' is not defined                            no-undef
+  169:94  warning  'i' is not defined                            no-undef
+  171:50  warning  'i' is not defined                            no-undef
+  184:18  warning  'i' is not defined                            no-undef
+  184:25  warning  'i' is not defined                            no-undef
+  184:51  warning  'i' is not defined                            no-undef
+  186:44  warning  'i' is not defined                            no-undef
+  186:94  warning  'i' is not defined                            no-undef
+  188:50  warning  'i' is not defined                            no-undef
+  196:18  warning  'i' is not defined                            no-undef
+  196:25  warning  'i' is not defined                            no-undef
+  196:51  warning  'i' is not defined                            no-undef
+  197:44  warning  'i' is not defined                            no-undef
+  197:94  warning  'i' is not defined                            no-undef
+  199:50  warning  'i' is not defined                            no-undef
+  212:18  warning  'i' is not defined                            no-undef
+  212:25  warning  'i' is not defined                            no-undef
+  212:51  warning  'i' is not defined                            no-undef
+  214:44  warning  'i' is not defined                            no-undef
+  214:94  warning  'i' is not defined                            no-undef
+  216:50  warning  'i' is not defined                            no-undef
+  224:18  warning  'i' is not defined                            no-undef
+  224:25  warning  'i' is not defined                            no-undef
+  224:51  warning  'i' is not defined                            no-undef
+  225:44  warning  'i' is not defined                            no-undef
+  225:94  warning  'i' is not defined                            no-undef
+  227:50  warning  'i' is not defined                            no-undef
+  240:14  warning  'i' is not defined                            no-undef
+  240:21  warning  'i' is not defined                            no-undef
+  240:50  warning  'i' is not defined                            no-undef
+  241:43  warning  'i' is not defined                            no-undef
+  241:96  warning  'i' is not defined                            no-undef
+  243:49  warning  'i' is not defined                            no-undef
+  258:10  warning  'addorgate' is defined but never used         no-unused-vars
+  266:10  warning  'addandgate' is defined but never used        no-unused-vars
+  272:10  warning  'addnotgate' is defined but never used        no-unused-vars
+  278:10  warning  'addnorgate' is defined but never used        no-unused-vars
+  284:10  warning  'addxorgate' is defined but never used        no-unused-vars
+  290:10  warning  'addnandgate' is defined but never used       no-unused-vars
+  296:10  warning  'adddivgate' is defined but never used        no-unused-vars
+  302:10  warning  'addbulbgate' is defined but never used       no-unused-vars
+  308:10  warning  'adddbulbgate' is defined but never used      no-unused-vars
+  311:10  warning  'addbulredbgate' is defined but never used    no-unused-vars
+  317:10  warning  'addbulbrggate' is defined but never used     no-unused-vars
+  321:10  warning  'connector1' is defined but never used        no-unused-vars
+  330:10  warning  'connector2' is defined but never used        no-unused-vars
+  339:10  warning  'connector3' is defined but never used        no-unused-vars
+  348:10  warning  'connector4' is defined but never used        no-unused-vars
+  357:10  warning  'addoutgate' is defined but never used        no-unused-vars
+  365:10  warning  'i' is not defined                            no-undef
+  365:17  warning  'i' is not defined                            no-undef
+  365:43  warning  'i' is not defined                            no-undef
+  366:32  warning  'i' is not defined                            no-undef
+  369:10  warning  'i' is not defined                            no-undef
+  369:17  warning  'i' is not defined                            no-undef
+  369:38  warning  'i' is not defined                            no-undef
+  370:13  warning  'a1' is already defined                       no-redeclare
+  370:27  warning  'i' is not defined                            no-undef
+  371:27  warning  'i' is not defined                            no-undef
+  372:31  warning  'i' is not defined                            no-undef
+  373:30  warning  'i' is not defined                            no-undef
+  383:10  warning  'startsim1' is defined but never used         no-unused-vars
+  386:10  warning  'i' is not defined                            no-undef
+  386:17  warning  'i' is not defined                            no-undef
+  386:46  warning  'i' is not defined                            no-undef
+  389:41  warning  'i' is not defined                            no-undef
+  394:10  warning  'stopsim1' is defined but never used          no-unused-vars
+  399:10  warning  'reset' is defined but never used             no-unused-vars
+  417:10  warning  'undoGate' is defined but never used          no-unused-vars
+  432:10  warning  'undoConnection' is defined but never used    no-unused-vars
+  446:10  warning  'redoGate' is defined but never used          no-unused-vars
+  459:10  warning  'redoConnection' is defined but never used    no-unused-vars
+
+/home/runner/work/exp-water-level-control-iitb/exp-water-level-control-iitb/experiment/simulation/js/outputgate.js
+   94:29  warning  Empty block statement  no-empty
+  103:29  warning  Empty block statement  no-empty
+  117:29  warning  Empty block statement  no-empty
+  126:29  warning  Empty block statement  no-empty
+
+/home/runner/work/exp-water-level-control-iitb/exp-water-level-control-iitb/experiment/simulation/js/waterlevel.ob.js
+  1:772  warning  'a' is already defined  no-redeclare
+
+✖ 321 problems (0 errors, 321 warnings)
+  0 errors and 71 warnings potentially fixable with the `--fix` option.
+
