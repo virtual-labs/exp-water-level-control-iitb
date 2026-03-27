@@ -1,1 +1,2 @@
-### Aim of the experiment
+The aim of the experiment is to use the combination of AND & NOT gates in water level controller application. The user will be able to find the output status of the electronic lock for given combination of inputs.
+The user will be able to analyze, construct and simulate to verify any combinational logic circuit for a given problem statement using the generalized simulator.
